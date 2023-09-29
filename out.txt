@@ -1,0 +1,18 @@
+Script started on 2023-09-29 15:23:36-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="84" LINES="45"]
+[?2004h]0;av738122@Alex-Vano-OU: ~/2400/Labs/lab5[01;32mav738122@Alex-Vano-OU[00m:[01;34m~/2400/Labs/lab5[00m$ exit./a.out
+[?2004lbash: ./a.out: No such file or directory
+[?2004h]0;av738122@Alex-Vano-OU: ~/2400/Labs/lab5[01;32mav738122@Alex-Vano-OU[00m:[01;34m~/2400/Labs/lab5[00m$ ./a.out[3Pexit./a.outg++ -Wall while.cc
+[?2004l^[[A[?2004h]0;av738122@Alex-Vano-OU: ~/2400/Labs/lab5[01;32mav738122@Alex-Vano-OU[00m:[01;34m~/2400/Labs/lab5[00m$ g++ -Wall while.cc[11P./a.out
+[?2004lEnter temperatures: 
+56
+23
+72
+43 5
+19
+-100
+Highest Temperature: 72
+Lowest Temperature: 19
+[?2004h]0;av738122@Alex-Vano-OU: ~/2400/Labs/lab5[01;32mav738122@Alex-Vano-OU[00m:[01;34m~/2400/Labs/lab5[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-29 15:23:58-04:00 [COMMAND_EXIT_CODE="0"]
